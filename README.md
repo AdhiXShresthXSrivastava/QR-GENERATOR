@@ -1,4 +1,4 @@
-📌 QR‑GENERATOR
+# 📌 QR‑GENERATOR
 
 A simple and efficient QR Code Generator built using the Python qrcode package.
 This project lets you generate QR codes for text, URLs, or any custom data string in just a few lines of code.
@@ -13,6 +13,6 @@ This project lets you generate QR codes for text, URLs, or any custom data strin
 📥 Installation
 To use this project, first install the required package
 
-pip install qrcode[pil]
+#pip install qrcode[pil]
 
 
